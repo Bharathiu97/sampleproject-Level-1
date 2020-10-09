@@ -3,8 +3,6 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.ust.makemytrip.TestBase"/>
-      <class name="com.ust.makemytrip.AppTest"/>
       <class name="com.ust.makemytrip.MakeMyTrip"/>
     </classes>
   </test> <!-- Test -->
